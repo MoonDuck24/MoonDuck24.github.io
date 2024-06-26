@@ -4,7 +4,7 @@ html {
 }
 
 h1{
-  font-size: 60vw;
+  font-size: 600px;
 
   text-align: center;
   
@@ -12,7 +12,7 @@ h1{
 
   line-height: 1;
 
-  margin: 30;
+  margin: 0;
   
   padding: 20px 0;
 
@@ -52,7 +52,7 @@ html {
 
 body {
   width: 90vw;
-  margin: 20 auto;
+  margin: 0 auto;
   background-color: #fff9a8;
   padding: 0 20px 20px 20px;
   border: 20px solid rgb(85, 85, 85);
@@ -61,5 +61,4 @@ body {
 img{
   display: block;
   margin: 0 auto;
-  width 100vw;
 }
