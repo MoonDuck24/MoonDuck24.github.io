@@ -19,7 +19,22 @@ h1{
   text-shadow: 1vw 1vw 0vw rgb(0, 0, 0);
 
 }
+h3{
+  font-size: 15vw;
+  
+  color: rgb(250, 5, 60);
 
+  line-height: 1;
+
+  margin: 0;
+  
+  padding: 0px 0;
+
+  text-shadow: 1vw 1vw 0vw rgb(0, 0, 0);
+
+
+
+}
 p{
   /*font-size: 90000000px;
   line-height: 4;
